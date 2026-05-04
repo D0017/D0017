@@ -24,15 +24,15 @@ I enjoy working on well-structured interfaces, improving user experience, testin
 <table>
   <tr>
     <td width="33%" align="center">
-      <h3>Software Development</h3>
+      <h3> Develop </h3>
       <p>Building clean, maintainable, and functional applications using modern development practices.</p>
     </td>
     <td width="33%" align="center">
-      <h3>UI/UX Design</h3>
+      <h3>Design</h3>
       <p>Designing simple, user-friendly, and accessible interfaces with attention to usability and visual clarity.</p>
     </td>
     <td width="33%" align="center">
-      <h3>Quality Assurance</h3>
+      <h3>Testing</h3>
       <p>Testing applications carefully to improve reliability, reduce issues, and deliver a better user experience.</p>
     </td>
   </tr>
